@@ -1,0 +1,11 @@
+Model Information:
+* title:	Wolfenstein terminal PC
+* source:	https://sketchfab.com/3d-models/wolfenstein-terminal-pc-6cfbe94bc6d14e8d881e1ffc9adb7c0f
+* author:	Niko1U (https://sketchfab.com/nikolas.unglaub)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Wolfenstein terminal PC" (https://sketchfab.com/3d-models/wolfenstein-terminal-pc-6cfbe94bc6d14e8d881e1ffc9adb7c0f) by Niko1U (https://sketchfab.com/nikolas.unglaub) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
