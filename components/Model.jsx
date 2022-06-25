@@ -1,7 +1,8 @@
 import { useEffect } from "react";
 import * as THREE from "three";
 import { GLTFLoader } from "three/examples/jsm/loaders/GLTFLoader.js";
-import SceneInit from "../pages/SceneInit";
+import SceneInit from "../public/SceneInit.js";
+
 import styles from "../styles/Home.module.css";
 const Model = () => {
   useEffect(() => {
