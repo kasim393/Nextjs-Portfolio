@@ -4,7 +4,7 @@
 
 # Description
 
-Perosnal Portfolio build using Next js, Three js and Framer Motion
+Personal Portfolio build using Next js, Three js, and Framer Motion
 
 # Tech Used
 
